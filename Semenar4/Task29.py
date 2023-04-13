@@ -30,8 +30,6 @@
 #  n = max_number
 # print(n) 
 
-
-
 n = 0
 a = 1
 while a != 0:
